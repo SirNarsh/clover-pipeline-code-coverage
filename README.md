@@ -5,5 +5,7 @@ Simple tool to process clover code coverage report &amp; exit with error to trig
 
 Pipeline example usage:
 
+```
 wget https://example.com/cloverpipeline
 cloverpipeline --file clover.xml --mincov 65
+```
